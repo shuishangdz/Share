@@ -9,3 +9,4 @@
 有疑问建议、讨论，欢迎发在 [Issues](https://github.com/OpenMindClub/Share/issues) 异步交流：）
 
 > 开智学堂[官网](http://www.openmindclub.com/)/[微信订阅号](http://top.aiweibang.com/u/290766)/[微博](http://weibo.com/openmindclub)/[豆列](http://www.douban.com/people/openmindclub/doulists/all)
+这是新加 的，目的是查看branch的作用66666
